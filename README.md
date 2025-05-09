@@ -137,3 +137,4 @@ clone
 modify
 commit
 push
+poin nambah
