@@ -139,3 +139,6 @@ commit
 push
 poin nambah
 test
+
+.
+.
